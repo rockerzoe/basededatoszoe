@@ -1,0 +1,4 @@
+http://localhost:8080/inventario/index.html
+
+configuroweb
+1234abcd..
